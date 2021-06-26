@@ -1,8 +1,6 @@
 Flask==0.11.1
 gunicorn==19.6.0
 requests
-get
-post
 wikipedia
 line-bot-sdk
 pandas==0.20.3
